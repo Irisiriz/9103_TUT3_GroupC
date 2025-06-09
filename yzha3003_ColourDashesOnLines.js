@@ -1,4 +1,4 @@
-// Draw Dots
+// Colour Dashes On Lines by yzha3003
 colourDashesOnLines();
 
 function colourDashesOnLines() {

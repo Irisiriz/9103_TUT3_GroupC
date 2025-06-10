@@ -96,5 +96,11 @@ function colourDashesOnLines() {
       }
     }
   });
+  /*
+  Referencing MDN, I using JavaScript’s array.forEach() to loop 
+  through the grid-index arrays because it performs the same 
+  iteration as a classic for loop but is cleaner and more readable.
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+  */
 }
 /**** Member D ****/

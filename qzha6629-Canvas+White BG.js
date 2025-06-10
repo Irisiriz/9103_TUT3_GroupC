@@ -11,8 +11,6 @@ let colour = {
   G : '#d8d8d8',
 };
 
-
-
 function setup() {
   createCanvas(wide, height);
   noLoop();
@@ -20,7 +18,4 @@ function setup() {
 
 function draw() {
   background(colour.W)
-
-
-  
 }
